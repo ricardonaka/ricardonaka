@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ricardonaka
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science Studies
+- 👀 I’m interested in Data Science and Operational Research
 - 📫 How to reach me ricardonaka@hotmail.com
 
 <!---
